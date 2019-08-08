@@ -1,0 +1,78 @@
+\begin{theindex}
+
+  \item Artificial intelligence, \hyperpage{8}
+
+  \indexspace
+
+  \item Conditional independence, \hyperpage{iv}
+  \item Covariance, \hyperpage{iv}
+
+  \indexspace
+
+  \item Derivative, \hyperpage{iv}
+  \item Determinant, \hyperpage{iii}
+
+  \indexspace
+
+  \item Element-wise product, 
+		\hyperindexformat{\see {Hadamard product}}{iii}
+
+  \indexspace
+
+  \item Graph, \hyperpage{iii}
+
+  \indexspace
+
+  \item Hadamard product, \hyperpage{iii}
+  \item Hessian matrix, \hyperpage{iv}
+
+  \indexspace
+
+  \item Independence, \hyperpage{iv}
+  \item Integral, \hyperpage{iv}
+
+  \indexspace
+
+  \item Jacobian matrix, \hyperpage{iv}
+
+  \indexspace
+
+  \item Kullback-Leibler divergence, \hyperpage{iv}
+
+  \indexspace
+
+  \item Matrix, \hyperpage{ii, iii}
+
+  \indexspace
+
+  \item Norm, \hyperpage{v}
+
+  \indexspace
+
+  \item Ridge regression, \hyperindexformat{\see {weight decay}}{8}
+
+  \indexspace
+
+  \item Scalar, \hyperpage{ii, iii}
+  \item Set, \hyperpage{iii}
+  \item Shannon entropy, \hyperpage{iv}
+  \item Sigmoid, \hyperpage{v}
+  \item Softplus, \hyperpage{v}
+
+  \indexspace
+
+  \item Tensor, \hyperpage{ii, iii}
+  \item Tikhonov regularization, 
+		\hyperindexformat{\see {weight decay}}{8}
+  \item Transpose, \hyperpage{iii}
+
+  \indexspace
+
+  \item Variance, \hyperpage{iv}
+  \item Vector, \hyperpage{ii, iii}
+
+  \indexspace
+
+  \item Weight decay, \hyperpage{8}
+
+\end{theindex}

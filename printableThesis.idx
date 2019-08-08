@@ -1,0 +1,31 @@
+\indexentry{Scalar|hyperpage}{ii}
+\indexentry{Vector|hyperpage}{ii}
+\indexentry{Matrix|hyperpage}{ii}
+\indexentry{Tensor|hyperpage}{ii}
+\indexentry{Scalar|hyperpage}{iii}
+\indexentry{Vector|hyperpage}{iii}
+\indexentry{Matrix|hyperpage}{iii}
+\indexentry{Tensor|hyperpage}{iii}
+\indexentry{Graph|hyperpage}{iii}
+\indexentry{Set|hyperpage}{iii}
+\indexentry{Transpose|hyperpage}{iii}
+\indexentry{Element-wise product|hyperindexformat{\see {Hadamard product}}}{iii}
+\indexentry{Hadamard product|hyperpage}{iii}
+\indexentry{Determinant|hyperpage}{iii}
+\indexentry{Derivative|hyperpage}{iv}
+\indexentry{Integral|hyperpage}{iv}
+\indexentry{Jacobian matrix|hyperpage}{iv}
+\indexentry{Hessian matrix|hyperpage}{iv}
+\indexentry{Independence|hyperpage}{iv}
+\indexentry{Conditional independence|hyperpage}{iv}
+\indexentry{Variance|hyperpage}{iv}
+\indexentry{Covariance|hyperpage}{iv}
+\indexentry{Kullback-Leibler divergence|hyperpage}{iv}
+\indexentry{Shannon entropy|hyperpage}{iv}
+\indexentry{Sigmoid|hyperpage}{v}
+\indexentry{Softplus|hyperpage}{v}
+\indexentry{Norm|hyperpage}{v}
+\indexentry{Artificial intelligence|hyperpage}{4}
+\indexentry{Weight decay|hyperpage}{4}
+\indexentry{Ridge regression|hyperindexformat{\see {weight decay}}}{4}
+\indexentry{Tikhonov regularization|hyperindexformat{\see {weight decay}}}{4}

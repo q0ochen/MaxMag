@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem[Goodfellow {\em et~al.}(2016)Goodfellow, Bengio, and
+  Courville]{dlbook}
+Goodfellow, I., Bengio, Y., and Courville, A. (2016).
+\newblock {\em Deep Learning\/}.
+\newblock MIT Press.
+
+\bibitem[Mitchell(1997)Mitchell]{Mitchell:1997:ML}
+Mitchell, T.~M. (1997).
+\newblock {\em Machine Learning\/}.
+\newblock McGraw-Hill, New York.
+
+\bibitem[Ovid and Martin(2004)Ovid and Martin]{ovid2004metamorphoses}
+Ovid and Martin, C. (2004).
+\newblock {\em Metamorphoses\/}.
+\newblock W.W. Norton.
+
+\bibitem[Sparkes(1996)Sparkes]{sparkes1996red}
+Sparkes, B. (1996).
+\newblock {\em The Red and the Black: Studies in Greek Pottery\/}.
+\newblock Routledge.
+
+\bibitem[Tandy(1997)Tandy]{1997works}
+Tandy, D.~W. (1997).
+\newblock {\em Works and Days: A Translation and Commentary for the Social
+  Sciences\/}.
+\newblock University of California Press.
+
+\end{thebibliography}
